@@ -1,0 +1,2 @@
+men = {"Benjamin":13381, "Elijah":12886, "James":13525, "Liam":19837, "Logan":12352, "Lucas":12585, "Mason":12435, "Noah":18267, "Oliver":13389, "William":14516}
+women = {"Amelia":12301, "Ava":14924, "Charlotte":12940, "Emma":18688, "Evelyn":10376, "Harper":10582, "Isabella":14464, "Mia":12642, "Olivia":17921, "Sophia":13928}
